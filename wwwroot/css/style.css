@@ -1,0 +1,99 @@
+.banner {
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+.banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-content {
+  color: #333;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-style: italic;
+  margin: 3rem;
+}
+
+.hero-content h1 {
+  margin: 2rem;
+}
+
+.hero-content h1 span {
+  color: #9c8c42;
+  font-weight: bold;
+}
+
+.feature-box {
+  background-color: #fff2d8;
+  border-radius: 12px;
+  padding: 30px 20px;
+  text-align: center;
+  height: 100%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease-in-out;
+}
+
+.feature-box:hover {
+  transform: translateY(-5px);
+}
+
+.feature-icon img {
+  max-width: 80px;
+  margin-bottom: 16px;
+}
+
+.feature-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 12px;
+  white-space: normal;
+}
+
+.feature-text {
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.present-title p {
+  color: #000;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.present-title span {
+  color: #000;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 200;
+  line-height: normal;
+}
+
+.present-services {
+  margin-top: 30px;
+}
+
+.present-services ul li {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 12px;
+}
+
+.present {
+  position: relative;
+}
+
+.sayhi {
+  position: absolute;
+  top: 10;
+}

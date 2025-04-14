@@ -31,3 +31,4 @@ C:\Users\luanv\source\repos\WebBanGauBong\obj\Debug\net6.0\refint\WebBanGauBong.
 C:\Users\luanv\source\repos\WebBanGauBong\obj\Debug\net6.0\WebBanGauBong.pdb
 C:\Users\luanv\source\repos\WebBanGauBong\obj\Debug\net6.0\WebBanGauBong.genruntimeconfig.cache
 C:\Users\luanv\source\repos\WebBanGauBong\obj\Debug\net6.0\ref\WebBanGauBong.dll
+C:\Users\luanv\source\repos\WebBanGauBong\obj\Debug\net6.0\WebBanGauBong.sourcelink.json

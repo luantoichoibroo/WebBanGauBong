@@ -95,5 +95,17 @@
 
 .sayhi {
   position: absolute;
-  top: 10;
+  top: 100px;
+  left: -130px;
+}
+
+.btn-order {
+  border-radius: 20px;
+  background: #ee9898;
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 10px 40px;
 }

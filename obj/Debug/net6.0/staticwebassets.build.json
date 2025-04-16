@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pzxGjQY76hYvt/0iTecLff9mmc+1tdybaz42JzY5ZDk=",
+  "Hash": "pWbZ1nd/UKu1smWpSyXyefANuJC/3aOOciho7/wQ6n4=",
   "Source": "WebBanGauBong",
   "BasePath": "_content/WebBanGauBong",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z5h0n76u0p",
-      "Integrity": "5ynSWMvgFndMTI8fYVD1dmWM2ydb/n8fbAdnubRFw8Q=",
+      "Fingerprint": "1yvwkvpu0o",
+      "Integrity": "RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -1721,7 +1721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 18:00:36 GMT"
+          "Value": "Mon, 14 Apr 2025 18:40:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1758,7 +1758,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 18:00:36 GMT"
+          "Value": "Mon, 14 Apr 2025 18:40:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1781,6 +1781,51 @@
       ]
     },
     {
+      "Route": "css/style.1yvwkvpu0o.css",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 18:47:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1yvwkvpu0o"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s="
+        }
+      ]
+    },
+    {
       "Route": "css/style.css",
       "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\css\\style.css",
       "Selectors": [],
@@ -1791,7 +1836,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1531"
+          "Value": "1743"
         },
         {
           "Name": "Content-Type",
@@ -1799,11 +1844,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5ynSWMvgFndMTI8fYVD1dmWM2ydb/n8fbAdnubRFw8Q=\""
+          "Value": "\"RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 18:39:01 GMT"
+          "Value": "Mon, 14 Apr 2025 18:47:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1813,52 +1858,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5ynSWMvgFndMTI8fYVD1dmWM2ydb/n8fbAdnubRFw8Q="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.z5h0n76u0p.css",
-      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1531"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5ynSWMvgFndMTI8fYVD1dmWM2ydb/n8fbAdnubRFw8Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 18:39:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z5h0n76u0p"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5ynSWMvgFndMTI8fYVD1dmWM2ydb/n8fbAdnubRFw8Q="
+          "Value": "sha256-RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s="
         }
       ]
     },

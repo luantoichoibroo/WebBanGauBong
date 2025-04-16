@@ -109,3 +109,149 @@
   line-height: normal;
   padding: 10px 40px;
 }
+
+.btn-order {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-order:hover {
+  background-color: darkgray;
+  color: #fff;
+}
+
+.about-services-title p {
+  color: #000;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 2rem;
+}
+
+.about-services-title span {
+  color: #000;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 20px;
+}
+
+.about-services {
+  margin-top: 90px;
+}
+
+.services-content-box {
+  max-width: 900px;
+}
+
+.card-services {
+  background-color: #f8f9fa;
+}
+
+.card-services-title {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.card-services-text {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.icon-circle {
+  width: 100px;
+  height: 100px;
+  background-color: #f9c5d1;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-circle img {
+  width: 60%;
+  height: auto;
+  object-fit: contain;
+}
+
+.card-services {
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.icon-circle {
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.services-content-box:hover .card-services {
+  background-color: #fee9ef;
+  transform: translateY(-4px);
+}
+
+.services-content-box:hover .icon-circle {
+  background-color: #ffffff;
+  transform: scale(1.05);
+}
+
+.services-content-box,
+.card.card-services {
+  height: 100%;
+}
+
+.stats-section {
+  background-image: url("../src/images/hoshikumo56.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.stat-item {
+  text-align: center;
+  padding: 20px;
+  transition: all 0.3s ease;
+}
+
+.circle-icon {
+  width: 80px;
+  height: 80px;
+  border: 2px solid black;
+  border-radius: 50%;
+  margin: 0 auto 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.4s ease;
+}
+
+.stat-item:hover .circle-icon {
+  background-color: #ec87a4;
+}
+
+.stat-icon .fas {
+  font-size: 2rem;
+}
+
+.employee-us-title p {
+  color: #000;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.employee-us-title span {
+  color: #000;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+}

@@ -249,24 +249,12 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\244fd886c476d6d881e7aa84bd48b69f.jpg",
-      "PackagePath": "staticwebassets\\src\\images\\244fd886c476d6d881e7aa84bd48b69f.jpg"
-    },
-    {
       "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\Client-employee-business-man-icon-Graphics-31597820-1.jpg",
       "PackagePath": "staticwebassets\\src\\images\\Client-employee-business-man-icon-Graphics-31597820-1.jpg"
     },
     {
-      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (3).jpg",
-      "PackagePath": "staticwebassets\\src\\images\\OIP (3).jpg"
-    },
-    {
       "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (4).jpg",
       "PackagePath": "staticwebassets\\src\\images\\OIP (4).jpg"
-    },
-    {
-      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (6).jpg",
-      "PackagePath": "staticwebassets\\src\\images\\OIP (6).jpg"
     },
     {
       "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\avt.png",
@@ -281,12 +269,56 @@
       "PackagePath": "staticwebassets\\src\\images\\co-gai-o-ha-noi-so-huu-bo-suu-tap-gau-bong-tri-gia-tram-trieu-dong-d78-7398798.webp"
     },
     {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item1.jpg",
+      "PackagePath": "staticwebassets\\src\\images\\colection-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item2.jpg",
+      "PackagePath": "staticwebassets\\src\\images\\colection-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item3.jpg",
+      "PackagePath": "staticwebassets\\src\\images\\colection-item3.jpg"
+    },
+    {
       "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\e47dce531952103f367c871833bf0b74.jpg",
       "PackagePath": "staticwebassets\\src\\images\\e47dce531952103f367c871833bf0b74.jpg"
     },
     {
       "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\girl-bear-11881.jpg",
       "PackagePath": "staticwebassets\\src\\images\\girl-bear-11881.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\hoshikumo56.png",
+      "PackagePath": "staticwebassets\\src\\images\\hoshikumo56.png"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-car-content.png",
+      "PackagePath": "staticwebassets\\src\\images\\icon-car-content.png"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-cart-feedback.png",
+      "PackagePath": "staticwebassets\\src\\images\\icon-cart-feedback.png"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-love-content.png",
+      "PackagePath": "staticwebassets\\src\\images\\icon-love-content.png"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-pencil-content.png",
+      "PackagePath": "staticwebassets\\src\\images\\icon-pencil-content.png"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-smile-content.png",
+      "PackagePath": "staticwebassets\\src\\images\\icon-smile-content.png"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-startcontent.png",
+      "PackagePath": "staticwebassets\\src\\images\\icon-startcontent.png"
+    },
+    {
+      "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-swap-content.png",
+      "PackagePath": "staticwebassets\\src\\images\\icon-swap-content.png"
     },
     {
       "Id": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\iconbantay.png",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pWbZ1nd/UKu1smWpSyXyefANuJC/3aOOciho7/wQ6n4=",
+  "Hash": "kD7RfAa1nxVkMLTFvxLiL0HpgPz6MbV5kDt2NDPq0Co=",
   "Source": "WebBanGauBong",
   "BasePath": "_content/WebBanGauBong",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1yvwkvpu0o",
-      "Integrity": "RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s=",
+      "Fingerprint": "gfi5djv0kj",
+      "Integrity": "jDXeq/+FU45EtbFVlj66gTHyhL0mhpVezmVSpObQr90=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -1340,27 +1340,6 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\244fd886c476d6d881e7aa84bd48b69f.jpg",
-      "SourceId": "WebBanGauBong",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
-      "BasePath": "_content/WebBanGauBong",
-      "RelativePath": "src/images/244fd886c476d6d881e7aa84bd48b69f#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "nedz0njns1",
-      "Integrity": "YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\src\\images\\244fd886c476d6d881e7aa84bd48b69f.jpg"
-    },
-    {
       "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\avt.png",
       "SourceId": "WebBanGauBong",
       "SourceType": "Discovered",
@@ -1445,6 +1424,69 @@
       "OriginalItemSpec": "wwwroot\\src\\images\\co-gai-o-ha-noi-so-huu-bo-suu-tap-gau-bong-tri-gia-tram-trieu-dong-d78-7398798.webp"
     },
     {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item1.jpg",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/colection-item1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "olq7syjptd",
+      "Integrity": "lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\colection-item1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item2.jpg",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/colection-item2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqkaasa9ny",
+      "Integrity": "iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\colection-item2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item3.jpg",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/colection-item3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nedz0njns1",
+      "Integrity": "YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\colection-item3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\e47dce531952103f367c871833bf0b74.jpg",
       "SourceId": "WebBanGauBong",
       "SourceType": "Discovered",
@@ -1485,6 +1527,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\src\\images\\girl-bear-11881.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\hoshikumo56.png",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/hoshikumo56#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dmk7mkuux7",
+      "Integrity": "JWpqSbfskUAjTVqlgdwSuZKEMhbqYLHDDg2bxthbSBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\hoshikumo56.png"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-car-content.png",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/icon-car-content#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9kmm5btf90",
+      "Integrity": "RyM3/SERHPqWJQ8OdbQnBXlCD9fAitmvgJJ5DR7ipCU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\icon-car-content.png"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-cart-feedback.png",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/icon-cart-feedback#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fcn83faj1q",
+      "Integrity": "LwfRwSaxnAUIIudK2paLRwv025Xo1wPYgDy8Sg+FyNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\icon-cart-feedback.png"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-love-content.png",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/icon-love-content#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xu4oksp6tp",
+      "Integrity": "mcJqdtv8XjVcX6Ok4vCgCUEwL2fi30b4kpryAkFzm38=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\icon-love-content.png"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-pencil-content.png",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/icon-pencil-content#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "51s8w3s2k3",
+      "Integrity": "F3RzFYXw/kW0ycdZ4Vt+ETzFGAf5pR7nEnk59D7rN7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\icon-pencil-content.png"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-smile-content.png",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/icon-smile-content#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zzr6ocqk5",
+      "Integrity": "IKuTgMlQkVa6hgzH7GeVWmzi6aw1eaIiddn92W8a66w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\icon-smile-content.png"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-startcontent.png",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/icon-startcontent#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hezmx30ly5",
+      "Integrity": "R7YAW0xbNOK/luqnArzRf9wpgzTa04vcEMKcIRrIblc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\icon-startcontent.png"
+    },
+    {
+      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-swap-content.png",
+      "SourceId": "WebBanGauBong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
+      "BasePath": "_content/WebBanGauBong",
+      "RelativePath": "src/images/icon-swap-content#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0o37zssaio",
+      "Integrity": "UEE2FESW9DEaiZuuRGVM5v1fgv7B7eb4/0Y06uLWPRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\src\\images\\icon-swap-content.png"
     },
     {
       "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\iconbantay.png",
@@ -1571,27 +1781,6 @@
       "OriginalItemSpec": "wwwroot\\src\\images\\logo-removebg-preview.png"
     },
     {
-      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (3).jpg",
-      "SourceId": "WebBanGauBong",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
-      "BasePath": "_content/WebBanGauBong",
-      "RelativePath": "src/images/OIP (3)#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wqkaasa9ny",
-      "Integrity": "iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\src\\images\\OIP (3).jpg"
-    },
-    {
       "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (4).jpg",
       "SourceId": "WebBanGauBong",
       "SourceType": "Discovered",
@@ -1611,27 +1800,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\src\\images\\OIP (4).jpg"
-    },
-    {
-      "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (6).jpg",
-      "SourceId": "WebBanGauBong",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\",
-      "BasePath": "_content/WebBanGauBong",
-      "RelativePath": "src/images/OIP (6)#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "olq7syjptd",
-      "Integrity": "lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\src\\images\\OIP (6).jpg"
     },
     {
       "Identity": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\pngtree-spring-cactus-taobao-children-s-wear-background-picture-image_1057435.jpg",
@@ -1781,51 +1949,6 @@
       ]
     },
     {
-      "Route": "css/style.1yvwkvpu0o.css",
-      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1743"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 18:47:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1yvwkvpu0o"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s="
-        }
-      ]
-    },
-    {
       "Route": "css/style.css",
       "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\css\\style.css",
       "Selectors": [],
@@ -1836,7 +1959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1743"
+          "Value": "4830"
         },
         {
           "Name": "Content-Type",
@@ -1844,11 +1967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s=\""
+          "Value": "\"jDXeq/+FU45EtbFVlj66gTHyhL0mhpVezmVSpObQr90=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 18:47:37 GMT"
+          "Value": "Sat, 19 Apr 2025 15:14:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1858,7 +1981,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RxbqmzMa30WsGOB5CnICR+Ba/H/GljWkslxO4gRAv+s="
+          "Value": "sha256-jDXeq/+FU45EtbFVlj66gTHyhL0mhpVezmVSpObQr90="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.gfi5djv0kj.css",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jDXeq/+FU45EtbFVlj66gTHyhL0mhpVezmVSpObQr90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 15:14:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gfi5djv0kj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jDXeq/+FU45EtbFVlj66gTHyhL0mhpVezmVSpObQr90="
         }
       ]
     },
@@ -6701,88 +6869,6 @@
       ]
     },
     {
-      "Route": "src/images/244fd886c476d6d881e7aa84bd48b69f.jpg",
-      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\244fd886c476d6d881e7aa84bd48b69f.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "39605"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:46:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw="
-        }
-      ]
-    },
-    {
-      "Route": "src/images/244fd886c476d6d881e7aa84bd48b69f.nedz0njns1.jpg",
-      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\244fd886c476d6d881e7aa84bd48b69f.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "39605"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:46:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nedz0njns1"
-        },
-        {
-          "Name": "label",
-          "Value": "src/images/244fd886c476d6d881e7aa84bd48b69f.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw="
-        }
-      ]
-    },
-    {
       "Route": "src/images/avt.lequwfzjxx.png",
       "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\avt.png",
       "Selectors": [],
@@ -6805,7 +6891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 17:21:43 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6850,7 +6936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 17:21:43 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6887,7 +6973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 17:36:25 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6932,7 +7018,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 17:36:25 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6969,7 +7055,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:09:15 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7006,7 +7092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:09:15 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7051,7 +7137,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:44:07 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7096,7 +7182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:44:07 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7107,6 +7193,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-+AZtan5G6qZ2CC514kn9WTofiMSZZFNhoimmbrwTgOA="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/colection-item1.jpg",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/colection-item1.olq7syjptd.jpg",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "olq7syjptd"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/colection-item1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/colection-item2.jpg",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/colection-item2.wqkaasa9ny.jpg",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqkaasa9ny"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/colection-item2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/colection-item3.jpg",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/colection-item3.nedz0njns1.jpg",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\colection-item3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nedz0njns1"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/colection-item3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YSXs1bCujqimevCKUDfpej0X1b1bTzb9SmSAnNRzhqw="
         }
       ]
     },
@@ -7133,7 +7465,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:45:55 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7170,7 +7502,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:45:55 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7215,7 +7547,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 18:38:29 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7252,7 +7584,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 18:38:29 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7271,6 +7603,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-fYBsyfwhrgigQFyic1nkiWkPa/ZjRuOEfvA5y2y/1dU="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/hoshikumo56.dmk7mkuux7.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\hoshikumo56.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWpqSbfskUAjTVqlgdwSuZKEMhbqYLHDDg2bxthbSBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dmk7mkuux7"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/hoshikumo56.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWpqSbfskUAjTVqlgdwSuZKEMhbqYLHDDg2bxthbSBY="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/hoshikumo56.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\hoshikumo56.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWpqSbfskUAjTVqlgdwSuZKEMhbqYLHDDg2bxthbSBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWpqSbfskUAjTVqlgdwSuZKEMhbqYLHDDg2bxthbSBY="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-car-content.9kmm5btf90.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-car-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RyM3/SERHPqWJQ8OdbQnBXlCD9fAitmvgJJ5DR7ipCU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:06:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9kmm5btf90"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/icon-car-content.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RyM3/SERHPqWJQ8OdbQnBXlCD9fAitmvgJJ5DR7ipCU="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-car-content.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-car-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RyM3/SERHPqWJQ8OdbQnBXlCD9fAitmvgJJ5DR7ipCU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:06:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RyM3/SERHPqWJQ8OdbQnBXlCD9fAitmvgJJ5DR7ipCU="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-cart-feedback.fcn83faj1q.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-cart-feedback.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwfRwSaxnAUIIudK2paLRwv025Xo1wPYgDy8Sg+FyNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:47:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcn83faj1q"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/icon-cart-feedback.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LwfRwSaxnAUIIudK2paLRwv025Xo1wPYgDy8Sg+FyNo="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-cart-feedback.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-cart-feedback.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LwfRwSaxnAUIIudK2paLRwv025Xo1wPYgDy8Sg+FyNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:47:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LwfRwSaxnAUIIudK2paLRwv025Xo1wPYgDy8Sg+FyNo="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-love-content.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-love-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcJqdtv8XjVcX6Ok4vCgCUEwL2fi30b4kpryAkFzm38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:05:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcJqdtv8XjVcX6Ok4vCgCUEwL2fi30b4kpryAkFzm38="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-love-content.xu4oksp6tp.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-love-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcJqdtv8XjVcX6Ok4vCgCUEwL2fi30b4kpryAkFzm38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:05:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xu4oksp6tp"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/icon-love-content.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcJqdtv8XjVcX6Ok4vCgCUEwL2fi30b4kpryAkFzm38="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-pencil-content.51s8w3s2k3.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-pencil-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3RzFYXw/kW0ycdZ4Vt+ETzFGAf5pR7nEnk59D7rN7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51s8w3s2k3"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/icon-pencil-content.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3RzFYXw/kW0ycdZ4Vt+ETzFGAf5pR7nEnk59D7rN7k="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-pencil-content.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-pencil-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F3RzFYXw/kW0ycdZ4Vt+ETzFGAf5pR7nEnk59D7rN7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F3RzFYXw/kW0ycdZ4Vt+ETzFGAf5pR7nEnk59D7rN7k="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-smile-content.4zzr6ocqk5.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-smile-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IKuTgMlQkVa6hgzH7GeVWmzi6aw1eaIiddn92W8a66w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:05:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zzr6ocqk5"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/icon-smile-content.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IKuTgMlQkVa6hgzH7GeVWmzi6aw1eaIiddn92W8a66w="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-smile-content.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-smile-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IKuTgMlQkVa6hgzH7GeVWmzi6aw1eaIiddn92W8a66w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:05:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IKuTgMlQkVa6hgzH7GeVWmzi6aw1eaIiddn92W8a66w="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-startcontent.hezmx30ly5.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-startcontent.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7YAW0xbNOK/luqnArzRf9wpgzTa04vcEMKcIRrIblc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:05:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hezmx30ly5"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/icon-startcontent.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R7YAW0xbNOK/luqnArzRf9wpgzTa04vcEMKcIRrIblc="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-startcontent.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-startcontent.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7YAW0xbNOK/luqnArzRf9wpgzTa04vcEMKcIRrIblc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:05:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R7YAW0xbNOK/luqnArzRf9wpgzTa04vcEMKcIRrIblc="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-swap-content.0o37zssaio.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-swap-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UEE2FESW9DEaiZuuRGVM5v1fgv7B7eb4/0Y06uLWPRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:08:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0o37zssaio"
+        },
+        {
+          "Name": "label",
+          "Value": "src/images/icon-swap-content.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UEE2FESW9DEaiZuuRGVM5v1fgv7B7eb4/0Y06uLWPRI="
+        }
+      ]
+    },
+    {
+      "Route": "src/images/icon-swap-content.png",
+      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\icon-swap-content.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UEE2FESW9DEaiZuuRGVM5v1fgv7B7eb4/0Y06uLWPRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 20:08:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UEE2FESW9DEaiZuuRGVM5v1fgv7B7eb4/0Y06uLWPRI="
         }
       ]
     },
@@ -7297,7 +8285,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 18:10:38 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7342,7 +8330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 18:10:38 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7379,7 +8367,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 20:47:36 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7424,7 +8412,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 20:47:36 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7461,7 +8449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 18:01:02 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7506,7 +8494,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 18:01:02 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7543,7 +8531,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 16:57:57 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7588,7 +8576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 16:57:57 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7599,88 +8587,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-XuEe7n2THeeyDBmNMHamnSAuIc09dCJOxVlLvrs3TEo="
-        }
-      ]
-    },
-    {
-      "Route": "src/images/OIP (3).jpg",
-      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (3).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59617"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:46:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs="
-        }
-      ]
-    },
-    {
-      "Route": "src/images/OIP (3).wqkaasa9ny.jpg",
-      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (3).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59617"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:46:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqkaasa9ny"
-        },
-        {
-          "Name": "label",
-          "Value": "src/images/OIP (3).jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-iKF3rvcyrZFFVcdeYPdgMeQmUgG9lCcGV+6DXMb2lLs="
         }
       ]
     },
@@ -7707,7 +8613,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:46:28 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7744,7 +8650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:46:28 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7763,88 +8669,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-+D1mvr7rdKLr12hnVS1GGdyp/uIu/GqtvGuViXBEgEc="
-        }
-      ]
-    },
-    {
-      "Route": "src/images/OIP (6).jpg",
-      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (6).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "146522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:47:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o="
-        }
-      ]
-    },
-    {
-      "Route": "src/images/OIP (6).olq7syjptd.jpg",
-      "AssetFile": "C:\\Users\\luanv\\source\\repos\\WebBanGauBong\\wwwroot\\src\\images\\OIP (6).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "146522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:47:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "olq7syjptd"
-        },
-        {
-          "Name": "label",
-          "Value": "src/images/OIP (6).jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lKmfveaPSOyegL8UsSRUuynzxgTJbxifRpnvpnfJT6o="
         }
       ]
     },
@@ -7871,7 +8695,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:58:57 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7908,7 +8732,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 21:58:57 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7953,7 +8777,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 18:34:03 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7998,7 +8822,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Mar 2025 18:34:03 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8035,7 +8859,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 05:12:59 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8072,7 +8896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 05:12:59 GMT"
+          "Value": "Tue, 15 Apr 2025 00:46:55 GMT"
         },
         {
           "Name": "Cache-Control",

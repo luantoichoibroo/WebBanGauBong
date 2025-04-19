@@ -255,3 +255,70 @@
   font-weight: 400;
   line-height: normal;
 }
+
+.colection-title {
+  color: #000;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.colection-subtitle {
+  color: #000;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.colection-img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.colection-img:hover {
+  transform: scale(1.03);
+}
+
+.colection-image-wrapper {
+  overflow: hidden;
+}
+
+/* Footer */
+
+.custom-footer {
+  height: 400px; /* hoặc chiều cao tùy bạn */
+  background-image: url("../src/images/background-footer.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-overlay {
+  text-align: center;
+  color: #000;
+}
+
+.footer-avatar img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+.footer-name {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.footer-slogan {
+  font-style: italic;
+  margin-top: 5px;
+}

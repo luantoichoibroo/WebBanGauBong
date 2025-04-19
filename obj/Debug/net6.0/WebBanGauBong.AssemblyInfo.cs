@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebBanGauBong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f7fb36a56825a77667352fbba202b7de52fbef4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e89dda9b2a487a2a7c5bcdc9fa2a03904f2597a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBanGauBong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBanGauBong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

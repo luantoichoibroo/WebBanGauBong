@@ -57,11 +57,17 @@
         @RenderBody()
     </main>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - WebBanGauBong - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <footer class="custom-footer">
+        <div class="footer-overlay">
+            <div class="footer-avatar">
+                <img src="~/src/images/avt.png" alt="Avatar">
+            </div>
+            <h5 class="footer-name">Tên tài khoản của bạn</h5>
+            <p class="footer-slogan">"Mang yêu thương đến người bạn yêu"</p>
         </div>
     </footer>
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

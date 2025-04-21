@@ -1,0 +1,70 @@
+﻿@model WebBanGauBong.Areas.Admin.ViewModels.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<form asp-action="Login" method="POST">
+    <div class="login-userheading">
+        <h3>Đăng nhập</h3>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    </div>
+    <div class="form-login">
+        <label>Email</label>
+        <div class="form-addons">
+            <input asp-for="Email" placeholder="Email/Tên đăng nhập" />
+            <img src="~/admin/assets/img/icons/mail.svg" alt="img" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-login">
+        <label>Mật khẩu</label>
+        <div class="pass-group">
+            <input asp-for="Password"
+                   class="pass-input"
+                   placeholder="Mật khẩu" />
+            <span class="fas toggle-password fa-eye-slash"></span>
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-login">
+        <div class="alreadyuser">
+            <h4>
+                <a asp-action="ForgotPassword" class="hover-a">Quên mật khẩu?</a>
+            </h4>
+        </div>
+    </div>
+    <div class="form-login">
+        <input type="submit" value="Đăng nhập" />
+    </div>
+    <div class="form-setlogin">
+        <h4>Hoặc</h4>
+    </div>
+    <div class="form-sociallink">
+        <ul>
+            <li>
+                <a href="javascript:void(0);">
+                    <img src="~/admin/assets/img/icons/google.png"
+                         class="me-2"
+                         alt="google" />
+                    Google
+                </a>
+            </li>
+            <li>
+                <a href="javascript:void(0);">
+                    <img src="~/admin/assets/img/icons/facebook.png"
+                         class="me-2"
+                         alt="google" />
+                    Facebook
+                </a>
+            </li>
+        </ul>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

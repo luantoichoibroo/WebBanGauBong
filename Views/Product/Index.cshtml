@@ -1,0 +1,106 @@
+﻿@model IEnumerable<WebBanGauBong.ViewModels.ProductVM>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="module module-home-services">
+    <div class="row row-home-service">
+        <div class="col-4 col-home-service">
+            <a class="home-service"
+            href="https://gaubongonline.vn/dich-vu/giao-hang-tan-nha.html"
+            rel="nofollow">
+                <img width="595"
+                height="500"
+                loading="lazy"
+                src="//gaubongonline.vn/wp-content/uploads/2017/08/Asset-2.png"
+                alt="Giao Hàng Tận Nhà" />
+                <strong class="title">Giao Hàng Tận Nhà</strong>
+            </a>
+        </div>
+        <div class="col-4 col-home-service">
+            <a class="home-service"
+            href="https://gaubongonline.vn/dich-vu/boc-qua-gia-re.html"
+            rel="nofollow">
+                <img width="429"
+                height="500"
+                loading="lazy"
+                src="//gaubongonline.vn/wp-content/uploads/2017/08/Asset-3.png"
+                alt="Bọc Quà Giá Rẻ" />
+                <strong class="title">Bọc Quà Giá Rẻ</strong>
+            </a>
+        </div>
+        <div class="col-4 col-home-service">
+            <a class="home-service"
+            href="https://gaubongonline.vn/dich-vu/tang-thiep-mien-phi.html"
+            rel="nofollow">
+                <img width="475"
+                height="500"
+                loading="lazy"
+                src="//gaubongonline.vn/wp-content/uploads/2017/08/Asset-4.png"
+                alt="Tặng Thiệp Miễn Phí" />
+                <strong class="title">Tặng Thiệp Miễn Phí</strong>
+            </a>
+        </div>
+        <div class="col-4 col-home-service">
+            <a class="home-service"
+            href="https://gaubongonline.vn/dich-vu/giat-gau-bong-khu-khuan-bong-gau.html"
+            rel="nofollow">
+                <img width="482"
+                height="500"
+                loading="lazy"
+                src="//gaubongonline.vn/wp-content/uploads/2017/08/Asset-5.png"
+                alt="Giặt Gấu Bông" />
+                <strong class="title">Giặt Gấu Bông</strong>
+            </a>
+        </div>
+        <div class="col-4 col-home-service">
+            <a class="home-service"
+            href="https://gaubongonline.vn/dich-vu/nen-chan-khong-gau.html"
+            rel="nofollow">
+                <img width="473"
+                height="500"
+                loading="lazy"
+                src="//gaubongonline.vn/wp-content/uploads/2017/08/Asset-1.png"
+                alt="Nén NHỎ GẤU" />
+                <strong class="title">Nén NHỎ GẤU</strong>
+            </a>
+        </div>
+    </div>
+</section>
+
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <div>Hiển thị 1–16 của 739 kết quả</div>
+        <select class="form-select dropdown-select">
+            <option selected>Mới nhất</option>
+            <option>Giá thấp đến cao</option>
+            <option>Giá cao đến thấp</option>
+        </select>
+    </div>
+
+    <div class="row g-4">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3">
+                <div class="card product-card p-2 text-center">
+                    <img src="~/src/images/products/@Url.Content(item.ImageUrl)"
+                    alt="Gấu Capybara" />
+                    <div class="card-body">
+                        <div class="product-title">
+                            <a href="">@item.Name</a>
+                        </div>
+                        <div class="price">@item.Price.ToString("N0")</div>
+                        <button class="btn size-btn mt-2">Rước em về ngay</button>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/shop.css" />
+}
+
